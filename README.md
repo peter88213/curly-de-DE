@@ -26,11 +26,11 @@
 
 * Installation über den OpenOffice/Libreoffice Extension Manager.
 
-* Nach der Installation (und Office-Neustart) hat das "Format"-Menü ein Untermenü für jede installierte Sprachvariante.
+* Nach der Installation (und Office-Neustart) hat das *Format*-Menü ein Untermenü für jede installierte Sprachvariante.
 
 * Optional kann man eine Toolbar andocken. Wer die Toolbar nicht braucht (weil sie z.B. nicht der Muttersprache entspricht), kann sie einfach schließen.
 
-* Falls im "Format"-Menü kein Untermenü erscheint, findet man es unter "Extras" > "Add-Ons".
+* Falls im *Format*-Menü kein Untermenü erscheint, findet man es unter *Extras > Add-Ons*.
 
 ## Systemvoraussetzungen
 
@@ -39,25 +39,25 @@
 
 ## Konventionen
 
-* Um Verwechslungen mit einfachen Anführungszeichen zu vermeiden, ist es ratsam, führende oder nachlaufende Apostrophe bei der Eingabe durch ein Nummernzeichen "#" zu ersetzen.
+* Um Verwechslungen mit einfachen Anführungszeichen zu vermeiden, ist es ratsam, führende oder nachlaufende Apostrophe bei der Eingabe durch ein Nummernzeichen (`#`) zu ersetzen.
 
-* Nummernzeichen "#" werden bei der Konvertierung von "Schreibmaschinenstil" in einen "Sprachenstil" durch Apostrophe ersetzt.
+* Nummernzeichen (`#`) werden bei der Konvertierung von  _Schreibmaschinenstil_  in einen  _Sprachenstil_  durch Apostrophe ersetzt.
 
-* Bei der Konvertierung von einem "Sprachenstil" in den "Schreibmaschinenstil" werden Apostrophe eventuell automatisch durch Nummernzeichen "#" ersetzt. 
+* Bei der Konvertierung von einem  _Sprachenstil_  in den  _Schreibmaschinenstil_  werden Apostrophe eventuell automatisch durch Nummernzeichen (`#`) ersetzt. 
 
-* Um Verwechslungen mit Trennstrichen zu vermeiden, wird empfohlen, Bindestriche bei der Eingabe durch doppelte Trennstriche "--" zu ersetzen.
+* Um Verwechslungen mit Trennstrichen zu vermeiden, wird empfohlen, Bindestriche bei der Eingabe durch doppelte Trennstriche (`--`) zu ersetzen.
 
-* Doppelte Trennstriche "--" werden bei der Umwandlung von "Schreibmaschinenstil" in einen "Sprachenstil" durch Gedankenstriche ersetzt.
+* Doppelte Trennstriche (`--`) werden bei der Umwandlung von  _Schreibmaschinenstil_  in einen  _Sprachenstil_  durch Gedankenstriche ersetzt.
 
-* Bei der Konvertierung von einem "Sprachenstil" in den "Schreibmaschinenstil" werden Bindestriche eventuell automatisch durch doppelte Trennstriche "--" ersetzt. 
+* Bei der Konvertierung von einem  _Sprachenstil_  in den  _Schreibmaschinenstil_ werden Bindestriche eventuell automatisch durch doppelte Trennstriche (`--`) ersetzt. 
 
-* "Dialogansicht" ist nur in einem "Sprachenstil" möglich.
+* _Dialogansicht_ ist nur in einem  _Sprachenstil_  möglich.
 
-* Wenn Sie von der "Dialogansicht" zur "Normalansicht" zurückgehen, wird die Schriftfarbe des gesamten Dokuments auf Schwarz gesetzt. 
+* Wenn Sie von der  _Dialogansicht_  zur  _Normalansicht_ zurückgehen, wird die Schriftfarbe des gesamten Dokuments auf Schwarz gesetzt. 
 
 * Sie können mehrere Sprachvarianten parallel installieren. Verwenden Sie das Austauschformat, um Anführungszeichen zwischen verschiedenen Sprachen zu konvertieren.
 
-* Die Konvertierung des Austauschformats ist nur von einem "Sprachenstil" aus möglich.
+* Die Konvertierung des Austauschformats ist nur von einem  _Sprachenstil_ aus möglich.
 
 ## Credits
 
