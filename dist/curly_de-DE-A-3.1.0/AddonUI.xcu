@@ -4,6 +4,24 @@
  oor:name="Addons" oor:package="org.openoffice.Office">
    <node oor:name="AddonUI">
 
+      <node oor:name="OfficeHelp">
+         <node oor:name="org.peter88213.curly_de-DE" oor:op="replace">
+            <prop oor:name="Context" oor:type="xs:string">
+               <value/>
+            </prop>
+            <prop oor:name="Title" oor:type="xs:string">
+               <value xml:lang="en">Help</value>
+               <value xml:lang="de">Hilfe</value>
+            </prop>
+            <prop oor:name="URL" oor:type="xs:string">
+               <value>vnd.sun.star.script:curly_de-DE.help.show_help?language=Basic&amp;location=application</value>
+            </prop>
+            <prop oor:name="Target" oor:type="xs:string">
+               <value>_self</value>
+            </prop>
+         </node>
+      </node>
+
       <node oor:name="OfficeMenuBarMerging">
          <node oor:name="org.peter88213.curly_de-DE" oor:op="replace">
             <node oor:name="N001" oor:op="replace">
@@ -248,6 +266,26 @@
                            </prop>
                            <prop oor:name="URL" oor:type="xs:string">
                               <value>vnd.sun.star.script:curly_de-DE.QM_de_DE.StandardView?language=Basic&amp;location=application</value>
+                           </prop>
+                           <prop oor:name="Target" oor:type="xs:string">
+                              <value>_self</value>
+                           </prop>
+                        </node>
+                        <node oor:name="N022" oor:op="replace">
+                           <prop oor:name="URL" oor:type="xs:string">
+                              <value>private:separator</value>
+                           </prop>
+                        </node>
+                        <node oor:name="N023" oor:op="replace">
+                           <prop oor:name="Context" oor:type="xs:string">
+                              <value/>
+                           </prop>
+                           <prop oor:name="Title" oor:type="xs:string">
+                              <value xml:lang="en">Help</value>
+                              <value xml:lang="de">Hilfe</value>
+                           </prop>
+                           <prop oor:name="URL" oor:type="xs:string">
+                              <value>vnd.sun.star.script:curly_de-DE.help.show_help?language=Basic&amp;location=application</value>
                            </prop>
                            <prop oor:name="Target" oor:type="xs:string">
                               <value>_self</value>
@@ -574,6 +612,26 @@
                   </prop>
                   <prop oor:name="URL" oor:type="xs:string">
                      <value>vnd.sun.star.script:curly_de-DE.QM_de_DE.StandardView?language=Basic&amp;location=application</value>
+                  </prop>
+                  <prop oor:name="Target" oor:type="xs:string">
+                     <value>_self</value>
+                  </prop>
+               </node>
+               <node oor:name="N020" oor:op="replace">
+                  <prop oor:name="URL" oor:type="xs:string">
+                     <value>private:separator</value>
+                  </prop>
+               </node>
+               <node oor:name="N021" oor:op="replace">
+                  <prop oor:name="Context" oor:type="xs:string">
+                     <value>com.sun.star.text.TextDocument</value>
+                  </prop>
+                  <prop oor:name="Title" oor:type="xs:string">
+                     <value xml:lang="en">Help</value>
+                     <value xml:lang="de">Hilfe</value>
+                  </prop>
+                  <prop oor:name="URL" oor:type="xs:string">
+                     <value>vnd.sun.star.script:curly_de-DE.help.show_help?language=Basic&amp;location=application</value>
                   </prop>
                   <prop oor:name="Target" oor:type="xs:string">
                      <value>_self</value>
