@@ -14,7 +14,7 @@
  [de-CH](https://peter88213.github.io/curly-de-CH), 
  [en-US](https://peter88213.github.io/curly-en-US), 
  [en-GB](https://peter88213.github.io/curly-en-GB), 
- [fr-FR]((https://peter88213.github.io/curly-fr-FR)).
+ [fr-FR](https://peter88213.github.io/curly-fr-FR).
 
 
 * Über ein Austauschformat kann zu anderen Sprachenstilen gewechselt werden.
