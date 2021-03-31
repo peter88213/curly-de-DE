@@ -22,4 +22,4 @@
 * If no additional submenu shows up in the "Format" menu, please look in the "Tools > Extensions" menu.
 
 
-[Changelog](https://peter88213.github.io/curly-de-CH/changelog)
+[Changelog](https://peter88213.github.io/curly-de-DE/changelog)
