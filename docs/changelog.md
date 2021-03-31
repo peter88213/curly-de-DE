@@ -7,9 +7,9 @@
 Move the release/update location back to the language-specific repository.
 
 
-### v3.1.2 Bugfix release
+### v3.1.1 Service update
 
-Add missing StarBasic macros. Based on curly v3.1.1
+Move the project to a central repository.
 
 
 ### v3.1.0 Provide help
