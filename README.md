@@ -3,9 +3,7 @@
 Smart quotes, typographical apostrophes, ellipses and so on. 
  Adds a toolbar and a submenu in the "Format" menu.
 
-* [Description](https://peter88213.github.io/curly-de-DE)
-* [Download page](https://github.com/peter88213/curly-de-DE/releases/latest)
-
+For more information, see the [project homepage][Description](https://peter88213.github.io/curly-de-DE) with description and download instructions.
 
 ## Want to fork this project?
 
