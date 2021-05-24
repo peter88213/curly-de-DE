@@ -1,4 +1,6 @@
-[Homepage](index)
+[Homepage](index) > Benutzungshinweise
+
+------------------------------------------------------------------------
 
 ## Benutzungshinweise
 
