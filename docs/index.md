@@ -64,6 +64,9 @@ Laden Sie die zu Ihrer Office-Installation passende Variante herunter:
 
 Zu den [Benutzungshinweisen](usage)
 
+## Aktualisierungen erhalten
+
+Diese Extension unterstützt den Update-Mechanismus von OpenOffice/LibreOffice. Sie können von Zeit zu Zeit den Extension Manager nach Updates suchen lassen, um das aktuelle Release zu erhalten. 
 
 ## Credits
 
