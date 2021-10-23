@@ -43,7 +43,7 @@ Sie können mehrere Sprachvarianten parallel installieren. Verwenden Sie das Aus
 
 Laden Sie die zu Ihrer Office-Installation passende Variante herunter:
 
-[Variante für LibreOffice 6.x (curly_de-DE-L-0.99.0.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-L-0.99.0.oxt)
+[Variante für LibreOffice 6+ (curly_de-DE-L-0.99.0.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-L-0.99.0.oxt)
 
 [Variante für Apache OpenOffice 4.x (curly_de-DE-A-0.99.0.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-A-0.99.0.oxt)
 
