@@ -5,6 +5,9 @@ Smart quotes, typographical apostrophes, ellipses and so on.
 
 For more information, see the [project homepage](https://peter88213.github.io/curly-de-DE) with description and download instructions.
 
+## Please note
+
+The *curly* extension is divided into a language-dependent module and shared modules. This repository contains the source files of the language dependent module together with the combined extension. The sources of the shared modules are hosted centrally in the [curly](https://github.com/peter88213/curly) repository.
 
 ## License
 
