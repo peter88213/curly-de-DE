@@ -5,10 +5,9 @@ Smart quotes, typographical apostrophes, ellipses and so on.
 
 For more information, see the [project homepage](https://peter88213.github.io/curly-de-DE) with description and download instructions.
 
-## Want to fork this project?
+## Please note
 
-You can download the full source code of this project [here](https://github.com/peter88213/curly-de-DE/releases/latest). If you have got your own GitHub account, you might want to give my cool project a star to bookmark it. If you are still considering forking this project, read [this](https://ericgreer.info/post/judging-the-stupidity-of-github-projects/) first.
-
+The *curly* extension is divided into a language-dependent module and shared modules. This repository contains the source files of the language dependent module together with the combined extension. The sources of the shared modules are hosted centrally in the [curly](https://github.com/peter88213/curly) repository.
 
 ## License
 
