@@ -4,6 +4,20 @@
 
 ## Changelog
 
+### Version 3.4.0
+
+The apostrophe substitution character was changed from a number sign to an acute accent.
+
+> [!TIP]
+> If you'd like to use a different replacement character instead, you can edit the BASIC code in the **Common** module and change this constant:
+> 
+> ```Basic
+> Public Const ChApostropheSubst = "´"
+> ```
+> If you want to continue using the number sign, you'll just have to stick with version 3.3.x.
+
+Based on curly 3.4.0
+
 ### Version 3.3.4
 
 Fixed Common.xba in curly:
