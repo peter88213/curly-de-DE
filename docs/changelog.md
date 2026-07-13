@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### Version 3.4.1
+
+Replacing closing single quotes with apostrophes, if placed within word boundaries.
+
+Based on curly 3.4.1
+
 ### Version 3.4.0
 
 The apostrophe substitution character was changed from a number sign to an acute accent.
