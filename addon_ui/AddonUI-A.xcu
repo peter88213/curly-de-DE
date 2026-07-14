@@ -146,8 +146,8 @@
                               <value/>
                            </prop>
                            <prop oor:name="Title" oor:type="xs:string">
-                              <value xml:lang="en">Acute accent to apostrophe (´ → ’)</value>
-                              <value xml:lang="de">Aufwärtsakzent zu Apostroph (´ → ’)</value>
+                              <value xml:lang="en">Replacement character to apostrophe (´ → ’)</value>
+                              <value xml:lang="de">Ersatzzeichen zu Apostroph (´ → ’)</value>
                            </prop>
                            <prop oor:name="URL" oor:type="xs:string">
                               <value>vnd.sun.star.script:curly_de-DE.Common.Apostrophe?language=Basic&amp;location=application</value>
@@ -492,8 +492,8 @@
                      <value>com.sun.star.text.TextDocument</value>
                   </prop>
                   <prop oor:name="Title" oor:type="xs:string">
-                     <value xml:lang="en">Acute accent to apostrophe (´ → ’)</value>
-                     <value xml:lang="de">Aufwärtsakzent zu Apostroph (´ → ’)</value>
+                     <value xml:lang="en">Replacement character to apostrophe (´ → ’)</value>
+                     <value xml:lang="de">Ersatzzeichen zu Apostroph (´ → ’)</value>
                   </prop>
                   <prop oor:name="URL" oor:type="xs:string">
                      <value>vnd.sun.star.script:curly_de-DE.Common.Apostrophe?language=Basic&amp;location=application</value>

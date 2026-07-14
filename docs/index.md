@@ -26,6 +26,8 @@ Sie können mehrere Sprachvarianten parallel installieren. Verwenden Sie das Aus
 
 * Über ein Austauschformat kann zu anderen Sprachenstilen gewechselt werden.
 
+* Falsch gesetzte einfache Anführungszeichen werden in Apostrophe umgewandelt.
+
 * Es gibt ein Menü und eine Toolbar mit Buttons.
 
 * Wörtliche Rede zeigen, indem alles ausgegraut wird, was nicht in Anführungszeichen gesetzt ist. 
@@ -43,11 +45,11 @@ Sie können mehrere Sprachvarianten parallel installieren. Verwenden Sie das Aus
 
 Laden Sie die zu Ihrer Office-Installation passende Variante herunter:
 
-[Variante für LibreOffice 6+ (curly_de-DE-L-3.4.1.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-L-3.4.1.oxt)
+[Variante für LibreOffice 6+ (curly_de-DE-L-3.4.2.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-L-3.4.2.oxt)
 
-[Variante für Apache OpenOffice 4.x (curly_de-DE-A-3.4.1.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-A-3.4.1.oxt)
+[Variante für Apache OpenOffice 4.x (curly_de-DE-A-3.4.2.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-A-3.4.2.oxt)
 
-[Variante für OpenOffice.org 3.x (curly_de-DE-3.4.1.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-3.4.1.oxt)
+[Variante für OpenOffice.org 3.x (curly_de-DE-3.4.2.oxt)](https://raw.githubusercontent.com/peter88213/curly-de-DE/master/curly_de-DE-3.4.2.oxt)
 
 * Installation gleich beim Download,  durch Doppelklick auf die heruntergeladene Datei oder über den OpenOffice/LibreOffice Extension Manager.
 

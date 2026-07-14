@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### Version 3.4.2
+
+- Replacing closing single chevrons with apostrophes, if placed within word boundaries.
+- Updated the corresponding menu entries.
+
+Based on curly 3.4.2
+
 ### Version 3.4.1
 
 Replacing closing single quotes with apostrophes, if placed within word boundaries.

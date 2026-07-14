@@ -26,6 +26,8 @@ Sie können mehrere Sprachvarianten parallel installieren. Verwenden Sie das Aus
 
 * Über ein Austauschformat kann zu anderen Sprachenstilen gewechselt werden.
 
+* Falsch gesetzte einfache Anführungszeichen werden in Apostrophe umgewandelt.
+
 * Es gibt ein Menü und eine Toolbar mit Buttons.
 
 * Wörtliche Rede zeigen, indem alles ausgegraut wird, was nicht in Anführungszeichen gesetzt ist. 
